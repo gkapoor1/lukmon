@@ -1,0 +1,14 @@
+uuid: 11e88497-bdb9-40b8-8e28-247bea2c994e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - gkapoor121212@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
